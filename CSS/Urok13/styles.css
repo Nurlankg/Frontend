@@ -1,0 +1,158 @@
+.container{
+    width: 100%;
+    max-width: 1170px;
+    margin: 0 auto;
+}
+
+.main{
+    width: 100%;
+    max-width: 1700px;
+    margin: 0 auto;
+}
+
+.menu{
+    font-size: 18px;
+    color: #828282;  
+    padding: 35px 0;
+    display: flex;  
+    justify-content: space-between;
+    border-bottom: 2px solid gray;
+}
+
+a{
+    text-decoration: none;
+}
+.menu2{
+    display: flex;
+    justify-content: space-between;
+    padding: 35px 0;
+    align-items: center;
+}    
+
+.left{
+    font-size: 47.3392px;
+    color: #070707;
+}
+
+.center{
+    font-size: 18px;
+    line-height: 22px;
+    color: #070707;
+}
+
+.right{
+    font-size: 16px;
+    line-height: 20px;
+    color: #828282;
+}
+
+.denis{
+    width: 100%;
+    padding-bottom: 50px;
+}
+
+.body{
+    height: 506px;
+    background: #F6F6F6;
+    padding: 50px 0;
+    text-align: center;
+}
+
+.aboutme{
+    font-size: 34px;
+    color: #070707;
+}
+
+p{
+    font-size: 18px;
+    line-height: 22px;
+    padding: 30px 0;
+    text-align: center;
+}
+
+.skills{
+    font-size: 34px;
+    color: #070707;
+    padding: 50px 0;
+    text-align: center;
+}
+
+.skills_logo{
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+    max-width: 1170px;
+    margin: 0 auto;
+}
+
+.adobe{
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+    max-width: 1170px;
+    margin: 0 auto;
+}
+
+.star{
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+    max-width: 1170px;
+    margin: 0 auto;
+    padding-bottom: 60px;
+}
+
+ .portfolio{
+    font-size: 34px;
+    color: #070707;
+    text-align: center;
+}
+
+.body2{
+    height: 2500px;
+    background: #F6F6F6;
+    padding: 50px 0;
+    text-align: center;
+}
+
+.denis2{
+    width: 70%;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+.contacts{
+    font-size: 34px;
+    color: #070707;
+    text-align: center;
+    padding-top: 50px;
+}
+
+.button{
+    background: #070707;
+    color: white;
+    font-size: 30px;
+    border-radius: 30px;
+    padding: 12px 28px;
+    cursor: pointer;
+}
+
+.butpos{
+    display: flex;
+    justify-content: center;
+    padding-bottom: 50px;
+}
+
+.social{
+    display: flex;
+    justify-content: center;
+}
+
+.insta{
+    padding-right: 30px;
+}
+
+.footertext{
+    font-size: 14px;
+    color: #828282;
+}

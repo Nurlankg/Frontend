@@ -1,0 +1,19 @@
+.one,
+.two{
+    background-color: cadetblue;
+    margin: 10px 10px;
+}
+
+#sun,
+#moon{
+    color: red;
+    background-color: burlywood;
+}
+
+.two .sky{
+    background-color: chartreuse;
+}
+
+.two .star{
+    font-size: 35px;
+}
