@@ -69,5 +69,14 @@
 
 // console.log(object);
 
-
-
+let arr = [];
+let name1 = prompt('Введите имя');
+let surname = prompt('ВВедите фамилию');
+let option = prompt('Ведите дополнительные параметры о себе')
+let option1 = prompt('Ведите дополнительные параметры о себе')
+let option2 = prompt('Ведите дополнительные параметры о себе')
+let option3 = prompt('Ведите дополнительные параметры о себе')
+let option4 = prompt('Ведите дополнительные параметры о себе')
+arr.push(name1, surname, option, option1, option2, option3, option4);
+console.log(arr.pop());
+console.log(arr);
